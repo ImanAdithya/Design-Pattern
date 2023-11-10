@@ -5,9 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/Dependency_Inversion_Principle/Dependency_Inversion_Principle.iml" filepath="$PROJECT_DIR$/Dependency_Inversion_Principle/Dependency_Inversion_Principle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design Patterns.iml" filepath="$PROJECT_DIR$/Design Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design_Pattern_01/Design_Pattern_01.iml" filepath="$PROJECT_DIR$/Design_Pattern_01/Design_Pattern_01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Design_Pattern_02/Design_Pattern_02.iml" filepath="$PROJECT_DIR$/Design_Pattern_02/Design_Pattern_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface_Segregation_Principle/Interface_Segregation_Principle.iml" filepath="$PROJECT_DIR$/Interface_Segregation_Principle/Interface_Segregation_Principle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Liscov_Substitution_Principle/Liscov_Substitution_Principle.iml" filepath="$PROJECT_DIR$/Liscov_Substitution_Principle/Liscov_Substitution_Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer_Design_Pattern/Observer_Design_Pattern.iml" filepath="$PROJECT_DIR$/Observer_Design_Pattern/Observer_Design_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Open_Close_Principle/Open_Close_Principle.iml" filepath="$PROJECT_DIR$/Open_Close_Principle/Open_Close_Principle.iml" />
     </modules>
   </component>
